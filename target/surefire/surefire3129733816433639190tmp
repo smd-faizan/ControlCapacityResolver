@@ -1,0 +1,6 @@
+#surefire
+#Tue Sep 29 18:04:43 IST 2015
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.0\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\fshaik\\Documents\\personal\\Cytoscape related work\\ControlCapacityResolver
+localRepository=C\:\\Users\\fshaik\\.m2\\repository
+basedir=C\:\\Users\\fshaik\\Documents\\personal\\Cytoscape related work\\ControlCapacityResolver
